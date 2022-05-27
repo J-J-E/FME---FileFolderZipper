@@ -1,8 +1,8 @@
 #-------------------------------------------------------------------------------
-# Name:        NG911.py
-# Purpose: This module houses many useful functions for NG911 validation purposes
+# Name:        quickZip.py
+# Purpose: This module contains two functions for zipping directories and individual files
 #
-# Author:      c11954
+# Author:      John Ehlen
 #
 # Created:     10/09/2020
 # Copyright:   (c) John Ehlen 2020
